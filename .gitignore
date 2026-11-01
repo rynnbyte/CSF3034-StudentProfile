@@ -1,0 +1,7 @@
+/build/
+/dist/
+/nbbuild/
+/nbdist/
+/.git-private/
+/nbproject/private/
+*.class
